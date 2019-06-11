@@ -1,0 +1,4 @@
+# Dataset sources
+
+School Shootings: https://github.com/washingtonpost/data-school-shootings
+qcountries.csv: I have no idea. It's old, bad data, though.
