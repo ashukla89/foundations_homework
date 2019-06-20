@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Mineral County School District</title>
+        <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+        <meta name="description" content="Mineral County School District" />
+<meta name="keywords" content="Mineral, County, School, District, Hawthorne, Nevada, Schurz, school, education" />
+        
+        <link rel="stylesheet" type="text/css" href="/files/livesite-school.css" />
+            <script type="text/javascript">
+                var software_path = "/";
+                var software_directory = "livesite";
+                var software_token = "c5d7d323a5775eaefc679a564f129ca8";
+                var software_device_type = "desktop";
+            </script>
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+                <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js"></script>
+            
+            <script type="text/javascript" src="/livesite/frontend.min.js"></script>
+            
+        
+        <script type="text/javascript" src="/files/livesite.js"></script>
+    </head>
+    <body>
+        <div id="livesite-site-border">
+            <div id="livesite-nav"><table style="WIDTH: 100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td> | <strong></strong><a href="https://nvcloud1.infinitecampus.org/campus/portal/mineral.jsp"><strong> Infinit Campus Parent/Student Portal</strong></a> | <strong></strong><a href="https://nvcloud1.infinitecampus.org/campus/mineral.jsp"><strong> Infinite Campus Teacher Portal</strong></a> | <a href="http://mail.mineral.k12.nv.us/"><strong>Web Email</strong></a> | </td><td style="TEXT-ALIGN: right"><form style="MARGIN: 0px" action="/livesite/search.php"><input class="search-query" name="query" /> <input class="search-submit" type="submit" value="Search" /></form></td></tr></tbody></table> </div>
+            <div id="livesite-site-header"><table style="text-align: center; width: 774px; height: 163px; vertical-align: top; border: 3px groove; background-color: #ffffff;" border="2" cellspacing="3" cellpadding="1">
+<tbody>
+<tr>
+<td>
+<p style="text-align: center;"><span style="color: #000000; font-family: 'times new roman', times; font-size: xx-large;"><strong>MINERAL COUNTY SCHOOL DISTRICT</strong></span></p>
+<p style="text-align: center;"><span style="color: #000000; font-family: 'times new roman', times; font-size: large;"><strong>Serving the students of Mina, Luning, Walker Lake, Hawthorne, and Schurz, Nevada&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="color: #000000;">&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+            <div id="menu"><ul>
+<li><a href="/">Home</a></li>
+<li><a id="menu_7" onmouseover="show_drop_down_menu('drop_down_menu_7', 'menu_7')" onmouseout="hide_drop_down_menu('drop_down_menu_7', 'menu_7')" href="/pages/School_Board_Connection">School Board</a></li>
+
+
+<li><a id="menu_2" onmouseover="show_drop_down_menu('drop_down_menu_2', 'menu_2')" onmouseout="hide_drop_down_menu('drop_down_menu_2', 'menu_2')" href="/pages/calendars</a></li>
+
+
+<li><a id="menu_3" onmouseover="show_drop_down_menu('drop_down_menu_3', 'menu_3')" onmouseout="hide_drop_down_menu('drop_down_menu_3', 'menu_3')" href="/pages/livesite_template_overview">Schools</a></li>
+
+
+<li><a id="menu_5" onmouseover="show_drop_down_menu('drop_down_menu_5', 'menu_5')" onmouseout="hide_drop_down_menu('drop_down_menu_5', 'menu_5')" href="/pages/new_releases">Students</a></li>
+
+<li><a id="menu_6" onmouseover="show_drop_down_menu('drop_down_menu_6', 'menu_6')"  onmouseout="hide_drop_down_menu('drop_down_menu_6', 'menu_6')" href="/pages/livesite_template_overview">Parents</a></li>
+
+
+<li><a id="menu_1" onmouseover="show_drop_down_menu('drop_down_menu_1', 'menu_1')"  onmouseout="hide_drop_down_menu('drop_down_menu_1', 'menu_1')" href="/pages/district_office">District</a></li>
+
+<li><a id="menu_10" onmouseover="show_drop_down_menu('drop_down_menu_10', 'menu_10')"  onmouseout="hide_drop_down_menu('drop_down_menu_10', 'menu_10')" href="/pages/transportation">Transportation</a></li>
+    
+    
+<li><a id="menu_12" onmouseover="show_drop_down_menu('drop_down_menu_12', 'menu_12')"  onmouseout="hide_drop_down_menu('drop_down_menu_12', 'menu_12')" href="/pages/Maintenance">Maintenance</a></li>  
+
+
+<li><a id="menu_10" onmouseover="show_drop_down_menu('drop_down_menu_10', 'menu_10')"  onmouseout="hide_drop_down_menu('drop_down_menu_10', 'menu_10')" href="/pages/finance">Finance</a></li>
+
+
+<li><a id="menu_9" onmouseover="show_drop_down_menu('drop_down_menu_9', 'menu_9')"  onmouseout="hide_drop_down_menu('drop_down_menu_9', 'menu_9')" href="/pages/Committees">Committees</a></li>
+
+
+<li><a id="menu_11" onmouseover="show_drop_down_menu('drop_down_menu_11', 'menu_11')"  onmouseout="hide_drop_down_menu('drop_down_menu_11', 'menu_11')" href="/pages/employment">Employment</a></li>
+
+
+<li><a id="menu_12" onmouseover="show_drop_down_menu('drop_down_menu_12', 'menu_12')"  onmouseout="hide_drop_down_menu('drop_down_menu_12', 'menu_12')" href="/pages/Community_Links">Community</a></li>
+    
+ 
+<li><a id="menu_13" onmouseover="show_drop_down_menu('drop_down_menu_13', 'menu_13')"  onmouseout="hide_drop_down_menu('drop_down_menu_13', 'menu_13')" href="/pages/Food Service_Links">Community</a></li><br style="clear: both" /></div>
+            <div id="livesite-page-border">
+                <div id="livesite-area-header"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: large; color: #000000;"><a href="https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html"><span style="color: #000000;">Family Educational Rights and Privacy Act (FERPA)</span></a><br /></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: large;">State Required Assessment Information</span></p>
+<p style="text-align: center;"><span style="color: #000000; font-size: medium;"><a href="http://www.doe.nv.gov/Assessments/" style="font-size: large; background-color: #ffffff;"><span style="color: #000000;">http://www.doe.nv.gov/Assessments</span></a></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: large;">Teacher Professional Qualifications</span></p>
+<p style="text-align: center;"><span style="font-size: medium; color: #000000;"><a href="https://online.nvdoe.org/#/VerifyLicense"><span style="color: #000000;">https://online.nvdoe.org/#/VerifyLicense</span></a></span></p>
+<p style="text-align: center;"><span style="color: #3366ff;"><a href="http://www.ets.org/parapro"><span style="font-size: medium; color: #3366ff;"><span style="color: #000000;"><span style="font-size: medium;">Paraprofessional Qualifications (775) 945-2403 x16</span></span></span></a></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: large; color: #ff0000;"><a href="http://www.mineral.k12.nv.us/files/diploma_requesst.pdf"><span style="color: #ff0000;">Request for High School <strong><span style="background-color: #ffff00;">Revised</span></strong> Diploma - Removal of HSPE per AB 7</span></a></span></p>
+<p style="text-align: center;"><span style="font-size: large; color: #ff0000;"><a href="http://www.mineral.k12.nv.us/files/diploma_requesst.pdf"><span style="color: #ff0000;">Print out form and return to the Mineral County School District Office.</span></a></span></p></div>
+                <div id="livesite-page-header"><p><font size="4">We're Sorry.</font></p><p>Your request was unsuccessful for the following reason(s): </p><p>There is currently a team working to solve this error.  We apologize for any delay.  We do not have a projected time for correction.  Our hope is that next week we will be able to reopen the website to Power School.</p><div class="software_error_page"><div style="color: red">Error: <a href="javascript:history.go(-1)">Page cannot be found.</a><br /></div></div></div>
+                <div id="livesite-page-footer"><p /></div>
+                <div id="livesite-area-footer"><p style="text-align: center;"><a href="/files/Mineral_County_School_District_Proposed_Web_Accessibility_Notice_POSTING_VERSION_11.20.17.pdf"><span style="font-family: georgia, palatino; font-size: medium; color: #ff0000;">Web Accessibility</span></a></p></div>
+            </div>
+            <div id="livesite-site-footer">
+                <div align="left"><img src="/files/NV5077_banner_v2.gif" alt="" align="baseline" border="0" /></div>
+<div align="center"><span style="color: #000000; font-size: small;"><strong>&nbsp;</strong></span></div>
+<div align="center">&nbsp;&nbsp;&copy;2009 Mineral County School District</div>
+                <div style="text-align: center">Got <a href="http://www.camelback.net" target="_blank" onclick="window.open('http://www.camelback.net/?t=' + window.location.host); return false;">liveSite</a>?</div>
+            </div>
+        </div>
+        <div id="drop_down_menu_1" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_1', 'menu_1')" onmouseout="hide_drop_down_menu('drop_down_menu_1', 'menu_1')">
+            <ul>
+<li>
+<div><a href="http://www.mineral.k12.nv.us/pages/curriculum">Curriculum</a></div>
+</li>
+<li><a href="/pages/Employment">Employment</a></li>
+<li><a href="/pages/Accountability">Accountability</a></li>
+<li><a href="https://nvcloud1.infinitecampus.org/campus/mineral.jsp">Infinite Campus for Teachers and Administrators</a></li>
+<li><a href="/pages/Grants">Grants</a></li>
+<li><a href="/pages/Links">Links</a><span class="highbutton a"><span class="highbutton a"><span class="highbutton a"> </span></span></span></li>
+</ul>
+<p>&nbsp;</p>
+        </div>
+        <div id="drop_down_menu_2" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_2', 'menu_2')" onmouseout="hide_drop_down_menu('drop_down_menu_2', 'menu_2')">
+            <ul>
+<ul>
+<li>
+<div><a href="/pages/Schools">Schools</a></div>
+</li>
+</ul>
+</ul>
+<div><a href="/pages/Schools"></a><strong><a href="/pages/HESUPDATED">Hawthorne Elementary School PK-6</a>&nbsp;<span style="font-family: arial, helvetica, sans-serif;"><a href="/pages/HJHS">Hawthorne Junior High School 7-8</a>&nbsp;</span><a href="/pages/MCHS"><span style="font-family: arial, helvetica, sans-serif;">Mineral County HS</span></a><span style="font-family: arial, helvetica, sans-serif;"><a href="/pages/SES">Schurz K-6</a></span><span style="font-family: arial, helvetica, sans-serif;"><a href="/pages/SES"><span><br /></span></a></span></strong></div>
+<p><a href="/pages/Adult_Ed/GED"><span style="color: #000000; font-family: arial, helvetica, sans-serif;"><strong>Adult Education</strong></span></a></p>
+<p>&nbsp;</p>
+        </div>
+        <div id="drop_down_menu_3" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_3', 'menu_3')" onmouseout="hide_drop_down_menu('drop_down_menu_3', 'menu_3')">
+            <font face="arial,helvetica,sans-serif" color="#000000"><a href="/pages/HESUPDATED"><strong>Hawthorne Elementary School PK-5</strong></a></font><font color="#000000"> </font><a href="/pages/HJHS"><font face="arial,helvetica,sans-serif" color="#000000"><strong>Hawthorne Junior High School 6-8</strong></font></a><font color="#000000"> </font><a href="/pages/MCHS"><font face="arial,helvetica,sans-serif" color="#000000"><strong>Mineral County HS</strong></font></a><font color="#000000"> </font><a href="/pages/SES"><font face="arial,helvetica,sans-serif" color="#000000"><strong><font color="#000000">Schurz K-8</font></strong> </font></a><font face="arial,helvetica,sans-serif" color="#000000">
+<p>
+&nbsp;
+</p>
+</font>
+
+        </div>
+        <div id="drop_down_menu_4" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_4', 'menu_4')" onmouseout="hide_drop_down_menu('drop_down_menu_4', 'menu_4')">
+            <font face="arial,helvetica,sans-serif" color="#000000"><a href="/pages/HESUPDATED"><strong>Hawthorne Elementary School PK-5</strong></a></font><font color="#000000"> </font><a href="/pages/HJHS"><font face="arial,helvetica,sans-serif" color="#000000"><strong>Hawthorne Junior High School 6-8</strong></font></a><font color="#000000"> </font><a href="/pages/MCHS"><font face="arial,helvetica,sans-serif" color="#000000"><strong>Mineral County HS</strong></font></a><font color="#000000"> </font><a href="/pages/SES"><font face="arial,helvetica,sans-serif" color="#000000"><strong><font color="#000000">Schurz K-8</font></strong> </font></a><font face="arial,helvetica,sans-serif" color="#000000">
+<p>
+&nbsp;
+</p>
+</font>
+
+        </div>
+        <div id="drop_down_menu_5" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_5', 'menu_5')" onmouseout="hide_drop_down_menu('drop_down_menu_5', 'menu_5')">
+            <ul>
+<li>Code of Conduct</li>
+<li><a href="/pages/career2" title="Career Exploring">Career Exploration</a></li>
+<li><a href="/files/Student_Planning_Folder.pdf">Education Plan</a></li>
+<li><a href="/pages/career">Career Planning</a></li>
+<li><a href="/pages/Student_Resources">Student Resources</a>&nbsp;</li>
+<li><a href="/pages/GEAR_UP">GEAR UP</a></li>
+</ul>
+        </div>
+        <div id="drop_down_menu_6" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_6', 'menu_6')" onmouseout="hide_drop_down_menu('drop_down_menu_6', 'menu_6')">
+            <ul>
+<li><a href="https://nvcloud1.infinitecampus.org/campus/portal/mineral.jsp">Infinite Campus Parent/Student Logon</a></li>
+<li><a href="/files/Student_Planning_Folder.pdf">Education Plan</a></li>
+<li><a href="/pages/career">Career Planning</a></li>
+<li><a href="/pages/faculty_directory">Teacher Pages</a></li>
+<li>Parent Involvement Plans</li>
+<li>Free/Reduced Lunch Application</li>
+<li><a href="/files/2016-17_4_Day_Calendar.pdf">16-17 School Calendar 4 Day</a></li>
+<li><a href="/files/2016-17_5_Day_Calendar.pdf">16-17 School Calendar 5 Day</a></li>
+</ul>
+        </div>
+        <div id="drop_down_menu_7" class="drop_down_menu" onmouseover="show_drop_down_menu('drop_down_menu_7', 'menu_7')" onmouseout="hide_drop_down_menu('drop_down_menu_7', 'menu_7')">
+            <ul>
+	<li>
+	<div>
+	<a href="/pages/School_Board_Connection">School Board</a>
+	</div>
+	</li>
+	<li><a href="/pages/School_Board_Agendas">School Board Meeting Agendas</a></li>
+	<li><a href="/pages/School_Board_Minutes">School Board Meeting Minutes</a></li>
+</ul>
+
+        </div>
+    </body>
+</html>
